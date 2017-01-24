@@ -1,0 +1,23 @@
+#Dunasys Configuration DCar files.
+
+#This file is the link between the preconfigured Dcar and its App for PSA case.
+
+01=VitesseVeh:km/h
+02=TourMoteur:tr/min
+03=FeuRoute:off,on
+04=FeuCroisement:off,on
+05=ClignoG:off,on
+06=ClignoD:off,on
+07=JaugeEssence:L
+08=ConsoCarbu:mm3
+09=TempCarbu:°C
+10=TempHuileMot:°C
+11=FreinMain:off,on
+12=FreinPedale:off,on
+13=Kilometrage:Km
+14=TensionBat:Volt
+15=AngleVol:°
+16=DistanceRoue:m
+17=EtatPorteConducteur:close,open
+18=EtatPortePassager:close,open
+19=EtatCoffre:close,open
